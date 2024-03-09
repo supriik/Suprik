@@ -1,0 +1,2 @@
+{"name": "Suprik,"version": "1.0.1","description": ""Smart Contract Deployment Tool: A JavaScript tool for easily deploying Solidity smart contracts on the Ethereum blockchain using web3.js."","main": "main.js","scripts": {"test": "jest"},"homepage": "https://github.com/supriik/Suprik","repository": {"type": "git","url": "https://github.com/supriik/Suprik.git"},"keywords": ["array", "unique", "utility", "javascript"],"license": "MIT","dependencies": {"jest": "27.0.0","eslint": "7.32.0","prettier": "2.5.1","babel-eslint": "10.1.0","husky": "7.0.0","lint-staged": "12.1.4"}
+}
